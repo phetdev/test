@@ -1,7 +1,6 @@
 <template>
     <div>
-    <router-view></router-view>
-    <h1>hiiiiiiii</h1>
+<router-link to="a"></router-link>
     </div>
 </template>
 
